@@ -1,0 +1,14 @@
+D:\GIT\BTVN\bai2\bin\Debug\net8.0\bai2.exe
+D:\GIT\BTVN\bai2\bin\Debug\net8.0\bai2.deps.json
+D:\GIT\BTVN\bai2\bin\Debug\net8.0\bai2.runtimeconfig.json
+D:\GIT\BTVN\bai2\bin\Debug\net8.0\bai2.dll
+D:\GIT\BTVN\bai2\bin\Debug\net8.0\bai2.pdb
+D:\GIT\BTVN\bai2\obj\Debug\net8.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\BTVN\bai2\obj\Debug\net8.0\bai2.AssemblyInfoInputs.cache
+D:\GIT\BTVN\bai2\obj\Debug\net8.0\bai2.AssemblyInfo.cs
+D:\GIT\BTVN\bai2\obj\Debug\net8.0\bai2.csproj.CoreCompileInputs.cache
+D:\GIT\BTVN\bai2\obj\Debug\net8.0\bai2.dll
+D:\GIT\BTVN\bai2\obj\Debug\net8.0\refint\bai2.dll
+D:\GIT\BTVN\bai2\obj\Debug\net8.0\bai2.pdb
+D:\GIT\BTVN\bai2\obj\Debug\net8.0\bai2.genruntimeconfig.cache
+D:\GIT\BTVN\bai2\obj\Debug\net8.0\ref\bai2.dll
